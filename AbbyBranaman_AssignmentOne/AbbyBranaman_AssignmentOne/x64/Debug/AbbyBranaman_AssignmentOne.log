@@ -1,0 +1,5 @@
+﻿  Problem 3.cpp
+  Problem1 & 2.cpp
+  Generating Code...
+Problem1 & 2.obj : error LNK2005: main already defined in Problem 3.obj
+C:\Users\Owner\OneDrive - University of La Verne\Winter_Spring 2026\OOP\AbbyBranaman_AssignmentOne\x64\Debug\AbbyBranaman_AssignmentOne.exe : fatal error LNK1169: one or more multiply defined symbols found
