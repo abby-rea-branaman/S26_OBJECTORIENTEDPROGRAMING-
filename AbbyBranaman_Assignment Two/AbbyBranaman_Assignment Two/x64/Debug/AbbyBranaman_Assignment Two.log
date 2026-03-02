@@ -1,0 +1,7 @@
+﻿  ProblemOne.cpp
+  ProblemTwo.cpp
+  Generating Code...
+C:\Users\Owner\OneDrive - University of La Verne\Winter_Spring 2026\OOP\AbbyBranaman_Assignment Two\AbbyBranaman_Assignment Two\ProblemTwo.cpp(24,6): error C2086: 'int highestScore': redefinition
+      C:\Users\Owner\OneDrive - University of La Verne\Winter_Spring 2026\OOP\AbbyBranaman_Assignment Two\AbbyBranaman_Assignment Two\ProblemTwo.cpp(22,6):
+      see declaration of 'highestScore'
+  
