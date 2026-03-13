@@ -1,2 +1,0 @@
-﻿Problem2.obj : error LNK2005: main already defined in Ch10_BankAccount.obj
-C:\Users\Owner\OneDrive - University of La Verne\Winter_Spring 2026\OOP\Assignment3\x64\Debug\Assignment3.exe : fatal error LNK1169: one or more multiply defined symbols found
