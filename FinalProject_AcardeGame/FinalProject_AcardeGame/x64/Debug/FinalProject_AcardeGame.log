@@ -1,0 +1,4 @@
+﻿  Guess_The_Number.cpp
+C:\Users\Owner\OneDrive - University of La Verne\Winter_Spring 2026\OOP\FinalProject_AcardeGame\FinalProject_AcardeGame\Guess_The_Number.cpp(9,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Owner\OneDrive - University of La Verne\Winter_Spring 2026\OOP\FinalProject_AcardeGame\FinalProject_AcardeGame\Guess_The_Number.cpp(38,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProject_AcardeGame.vcxproj -> C:\Users\Owner\OneDrive - University of La Verne\Winter_Spring 2026\OOP\FinalProject_AcardeGame\x64\Debug\FinalProject_AcardeGame.exe
